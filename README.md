@@ -1,0 +1,2 @@
+# Sincronia
+my busines app
